@@ -10,8 +10,8 @@
 </p>
 <h2 align='center'>Contact-me:</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/biancasanches-dev"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="biancasanches-dev" height="30" width="40" /></a>
-  <a href="biancasanches.dev@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail&theme=light" alt="biancasanches.dev" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/bianca-sanchesdev"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="biancasanches-dev" height="30" width="40" /></a>
+  <a href="mailto:biancasanches.dev@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail&theme=light" alt="biancasanches.dev" height="30" width="40" /></a>
   <a href="https://github.io/biancasanches-dev"><img align="center" src="https://skillicons.dev/icons?i=github" alt="biancasanches-dev" height="30" width="40" /></a>
 </p>
 <br>
