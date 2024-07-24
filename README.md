@@ -1,11 +1,11 @@
 <h1> Hi, I'm Bia Sanches!👋<br></h1>
 <img align='right' src="https://c.tenor.com/KiQ71OnI4Q8AAAAC/tenor.gif" width="230">
-<p><em>A passionate frontend developer from Brazil, looking to become a fullstack!</em><p>
-<p>📚 I’m currently studying <b>Systems Analysis & Development</b> <a href="https://unifan.net.br/graduacao/analise-de-sistemas/?mod=EAD">UNIFAN</a><br>👨‍💻 Front-end Developer freelancer at <a href="https://github.com/appventura">Appventura</a><br>🛠️ Portfolio at <a href="https://biancasanches-dev.github.io/portfolio/">biancasanches-dev.github.io/portfolio/</a>
+<p><em>A passionate frontend developer from Brazil, looking to become a fullstack with Java and Spring Boot!</em><p>
+<p>📚 I’m currently studying <b>Systems Analysis & Development</b> <a href="https://unifan.net.br/graduacao/analise-de-sistemas/?mod=EAD">UNIFAN</a><br>👨‍💻 Front-end Developer freelancer at <a href="https://github.com/appventura">Appventura</a><br>🛠️ Portfolio at <a href="https://biancasanchesdev.me/">biancasanchesdev.me</a>
 </em></p><br><br><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,sass,tailwind,nodejs,mysql,sequelize,jest,git," />
+    <img src="https://skillicons.dev/icons?i=javascript,ts,react,tailwind,java,spring,jest,git&theme=light" />
   </a>
 </p>
 <h2 align='center'>Contact-me:</h2>
@@ -25,8 +25,11 @@
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<p align='center'>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biancasanches-dev/biancasanches-dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biancasanches-dev/biancasanches-dev/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/biancasanches-dev/biancasanches-dev/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
