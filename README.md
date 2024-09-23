@@ -1,11 +1,11 @@
 <h1> Hi, I'm Bia Sanches!👋<br></h1>
 <img align='right' src="https://c.tenor.com/KiQ71OnI4Q8AAAAC/tenor.gif" width="230">
 <p><em>A passionate frontend developer from Brazil, looking to become a fullstack with Java and Spring Boot!</em><p>
-<p>📚 I’m currently studying <b>Systems Analysis & Development</b> <a href="https://unifan.net.br/graduacao/analise-de-sistemas/?mod=EAD">UNIFAN</a><br>👨‍💻 Front-end Developer freelancer at <a href="https://github.com/appventura">Appventura</a><br>🛠️ Portfolio at <a href="https://biancasanchesdev.me/">biancasanchesdev.me</a>
+<p>📚 I’m currently studying <b>Systems Analysis & Development</b> <a href="https://unifan.net.br/graduacao/analise-de-sistemas/?mod=EAD">UNIFAN</a><br>👨‍💻 Backend Developer at <a href="https://www.wemind.com.br/">We-Mind</a><br>🛠️ Portfolio at <a href="https://biancasanchesdev.me/">biancasanchesdev.me</a>
 </em></p><br><br><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,ts,react,tailwind,java,spring,jest,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,ts,javascript,react,php,tailwind,spring,jest,git&theme=light" />
   </a>
 </p>
 <h2 align='center'>Contact-me:</h2>
